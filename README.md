@@ -3,6 +3,7 @@ This repository contains projects that demonstrate the various steps involved in
 
 Concepts covered:
 1. Crawling
+2. Page Rank 
 
 Getting Started: 
 For getting started with the project you will require the following:
